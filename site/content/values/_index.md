@@ -1,45 +1,46 @@
 ---
 title: "Values"
-image: /img/about-jumbotron.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "Diversity"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+      Diversity without inclusion is short-lived. It is not sustainable and improves a company’s image, but not the culture and careers of associates. For this reason, Social Justice LR Corp. deliberately chose to frame our journey as Inclusion and Diversity. We are a wonderful company. We care about the safety and well-being of our people and communities. That is REAL.
+
+SJ LR CORP and the brands are a reflection of all of our stakeholders—different ages, abilities, genders, cultures, sexual orientations and identities, and races.
+  - heading: "Inclusion"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+      Inclusion is a state of being valued, respected and supported. It’s about focusing on the needs of every individual and ensuring the right conditions are in place for each person to achieve his or her full potential. Inclusion should be reflected in an organization’s culture, practices and relationships that are in place to support a diverse workforce. Inclusion is the process of creating a working culture and environment that recognizes, appreciates, and effectively utilizes the talents, skills, and perspectives of every employee; uses employee skills to achieve the agency’s objectives and mission; connects each employee to the organization; and encourages collaboration, flexibility, and fairness. We define inclusion as a set of behaviors (culture) that encourages employees to feel valued for their unique qualities and experience a sense of belonging.
+In simple terms, inclusion is getting the mix to work together.
+
+  - heading: "Equity"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
+      The term “equity” refers to fairness and justice and is distinguished from equality: Whereas equality means providing the same to all, equity means recognizing that we do not all start from the same place and must acknowledge and make adjustments to imbalances. The process is ongoing, requiring us to identify and overcome intentional and unintentional barriers arising from bias or systemic structures.
+
+  - heading: "Brand Strategy"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+     Mission
+
+For anyone who see or encounters injustice, SJ LR Corp is a Social Justice Support Center that Brings justice and rules to many of places.
+
+Our Story
+
+Background
+Our team saw there was an issue with justice in the community, after spending hours talking with leaders of the town we sought to bring Social Justice LR Corp into the world. We created this corporation to better the world and town with justice for human rights and sake
+
+What we do
+WE send recommendations to companies and law enforcement regarding cases we get from outside people. WE support them around the clock with injustice.
+
+Bringing change to the world one step at a time
+
+- heading: "Vision"
+ text: >
+Turn injustice into opportunity, courage to tempt the impossible, and embrace the strange.
+
+- heading: "Core Values"
+ text: >
+Diversity
+Inclusion
+Equity
+Teamwork
+Good Citizenship
+Respect for Humans
 ---
