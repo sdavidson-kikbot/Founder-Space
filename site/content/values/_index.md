@@ -4,8 +4,8 @@ values:
   - heading: "Diversity"
     text: >
       Diversity without inclusion is short-lived. It is not sustainable and improves a company’s image, but not the culture and careers of associates. For this reason, Social Justice LR Corp. deliberately chose to frame our journey as Inclusion and Diversity. We are a wonderful company. We care about the safety and well-being of our people and communities. That is REAL.
-
 SJ LR CORP and the brands are a reflection of all of our stakeholders—different ages, abilities, genders, cultures, sexual orientations and identities, and races.
+  
   - heading: "Inclusion"
     text: >
       Inclusion is a state of being valued, respected and supported. It’s about focusing on the needs of every individual and ensuring the right conditions are in place for each person to achieve his or her full potential. Inclusion should be reflected in an organization’s culture, practices and relationships that are in place to support a diverse workforce. Inclusion is the process of creating a working culture and environment that recognizes, appreciates, and effectively utilizes the talents, skills, and perspectives of every employee; uses employee skills to achieve the agency’s objectives and mission; connects each employee to the organization; and encourages collaboration, flexibility, and fairness. We define inclusion as a set of behaviors (culture) that encourages employees to feel valued for their unique qualities and experience a sense of belonging.
